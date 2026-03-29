@@ -201,29 +201,6 @@ This system provides practical value by:
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/loan-repayment-prediction.git
-cd loan-repayment-prediction
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
